@@ -1,4 +1,3 @@
 ---
-layout: redirect
-redirect_url: https://maxloh.github.io/
+redirect_to: "http://example.com"
 ---
